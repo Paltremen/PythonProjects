@@ -1,0 +1,5 @@
+# Ignore the .env
+.env
+# Ignore the notebooks
+notebook.py
+notebook copy.py
