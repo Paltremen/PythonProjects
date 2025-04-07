@@ -3,3 +3,5 @@
 # Ignore the notebooks
 notebook.py
 notebook copy.py
+# Ignore the cache
+__pycache__
