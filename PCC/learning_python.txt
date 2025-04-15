@@ -1,0 +1,4 @@
+In Python you can access files
+In Python you can do OOP
+In Python you can do data science
+In Python you can train LLMs
